@@ -39,5 +39,6 @@ public class BuddyInfo {
 		AddressBook ab = new AddressBook();
 		ab.addBuddy(buddy);
 		ab.removeBuddy(buddy);
+		//changes
 	}
 }
